@@ -1,0 +1,12 @@
+# Potato Disease Classifier — Python Dependencies
+# Compatible with Streamlit Community Cloud
+#
+# tensorflow-cpu  → lighter than full tensorflow (no GPU needed for inference)
+# pillow          → image loading/processing
+# numpy           → array operations
+# streamlit       → web app framework
+
+streamlit>=1.28.0
+tensorflow-cpu>=2.13.0
+pillow>=9.4.0
+numpy>=1.23.0
